@@ -1,4 +1,4 @@
-# customer-segmentation-clustering-technique-project
+# Customer segmentation Using Clustering
 
 We have used Elbow method and Silhoutte score technique ,K-means and Agglomerative Clustering Method.
 
